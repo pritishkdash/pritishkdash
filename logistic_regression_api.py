@@ -1,16 +1,8 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[6]:
-
-
-
-
 import numpy as np 
 import pandas as pd
 from numpy import linalg as LA    
         
-data = pd.read_csv("C:\\Users\\silicon\\Desktop\\heart.csv",sep=',')
+data = pd.read_csv("C:\\Users\\hp\\Desktop\\heart.csv",sep=',')
 print( data.head() )
 
 #Get the target...
