@@ -76,7 +76,6 @@ idf= pd.DataFrame([idfFirst, idfSecond])
 print(idf)
 
 #refer..https://storytellingco.com/how-to-build-a-recommender-system-using-tf-idf-and-nmf-python/
-#Project...Build a Recommnder system with TF-IDF and NNMF
 '''
 Specifically, we will:
 
